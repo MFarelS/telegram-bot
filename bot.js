@@ -1,6 +1,6 @@
 const Telegraf = require('telegraf')
 
-const bot = new Telegraf('1675749539:AAH46KNMRschhJDMuI5dclpp9FnB0znEaK4')
+const bot = new Telegraf('1675749539:AAH46KNMRschhJDMuI5dclpp9FnB0znEaK4') //replace with your accestoken in @BotFather
 const botName = 'DARK BOT'
 const ownerName = 'MrDevils'
 bot.command("start", (ctx) => {
