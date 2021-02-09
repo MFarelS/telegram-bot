@@ -20,10 +20,10 @@ print("""
     ██╔══██╗██║░░██║░░░██║░░░
     ██████╦╝╚█████╔╝░░░██║░░░
     ╚═════╝░░╚════╝░░░░╚═╝░░░
-      ░ ░\x1b[00m\033[041m TERMUX WHATSAPP BOT MrDevils  \033[00m\x1b>
+      ░ ░\x1b[00m\033[041m TERMUX TELEGRAM BOT MrDevils  \033[00m\x1b>
         ░ ░   ░   ░    ░ ░   ░    ░   ░   ░\x1b[00m
 """)
 m('\x1b[00m\033[041m Sedang Memulai...  \033[00m')
-m('\x1b[00m\033[041m Silahkan Scan Kode QR Nya Ya  \033[00m')
+m("berhasil")
 os.system("node bot.js")
 m("DONE")
