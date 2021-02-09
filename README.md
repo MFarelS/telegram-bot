@@ -24,12 +24,6 @@
 </P>
 </P>
 
-### UPDATE
-- [Fix Bug]
-- [trigger]
-- [gay]
-- [nulis2]
-
 ## Contact
 
 If you find some bugs please contact the WhatsApp number on Contact
