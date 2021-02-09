@@ -86,7 +86,8 @@ Enter username you want
 <img src="https://e.top4top.io/p_1866geqlo0.jpg" alt="JPG" width="200" height="280"/>
 </p>
 Copy the token
-And replace in here [Your_Token](https://github.com/adimas999/telegram-bot/blob/428cdebb22cf0912cb32997ecd4d0e87401c77b2/bot.js#L24)
+And replace in here : 
+- [Your_Token](https://github.com/adimas999/telegram-bot/blob/428cdebb22cf0912cb32997ecd4d0e87401c77b2/bot.js#L24)
 
 ### Install (termux)
 Clone this project
