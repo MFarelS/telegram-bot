@@ -57,7 +57,7 @@ If you find some bugs please contact the WhatsApp number on Contact
 ### Termux Discord Bot (comingsoon)
 - [comingsoon]
 
-### Install
+### Install (termux)
 Clone this project
 
 ```bash
@@ -79,6 +79,20 @@ run the telegram bot
 ```bash
 > python start.py
 ```
+
+### Install (windows)
+install nodejs in [here](nodejs.org/)
+
+```bash
+> npm install
+> npm install axios
+> npm install telegraf
+> npm install nodemon
+> nodemon bot.js
+> atau
+> node bot.js
+```
+
 
 ## 120+ Features
 |  MAKER  |                                           YES |
