@@ -22,7 +22,7 @@ print("""
       ██╔══██╗██║░░██║░░░██║░░░
       ██████╦╝╚█████╔╝░░░██║░░░
       ╚═════╝░░╚════╝░░░░╚═╝░░░
-      ░ ░\x1b[00m\033[041m TERMUX WHATSAPP BOT MrDevils  \033[00m\x1b[1;00m░░
+      ░ ░\x1b[00m\033[041m TERMUX TELEGRAM BOT MrDevils  \033[00m\x1b[1;00m░░
         ░ ░   ░   ░    ░ ░   ░    ░   ░   ░\x1b[00m
 """)
 m('\x1b[00m\033[041m Install bahan automatis  \033[00m')
@@ -39,7 +39,7 @@ os.system("npm install")
 os.system("npm audit fix")
 os.system("npm install axios")
 os.system("npm install telegraf")
-m('\x1b[00m\033[041m Memulai Whatsapp Bot...  \033[00m')
+m('\x1b[00m\033[041m Memulai Telegram Bot...  \033[00m')
 os.system("clear")
-os.system("python start.py")
+os.system("node bot.js")
 m("DONE")
