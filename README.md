@@ -88,7 +88,7 @@ Enter username you want
 Copy the token
 And replace in here : 
 </p>
-- [Your_Token](https://github.com/adimas999/telegram-bot/blob/428cdebb22cf0912cb32997ecd4d0e87401c77b2/bot.js#L24)
+(https://github.com/adimas999/telegram-bot/blob/428cdebb22cf0912cb32997ecd4d0e87401c77b2/bot.js#L24)
 
 ### Install (termux)
 Clone this project
@@ -302,5 +302,5 @@ install nodejs in [here](nodejs.org/)
 | Semoji|✅|
 | FML|✅|
 | FML2|✅|
-| Afk|✅|
+| Afk|❌|
 | Timer|✅|
