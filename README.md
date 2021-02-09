@@ -51,6 +51,11 @@ If you find some bugs please contact the WhatsApp number on Contact
 ### Termux Discord Bot (comingsoon)
 - [comingsoon]
 
+## Information
+
+#### This script is open to anyone! If you want to add commands, please contribute / pull request! Buying and selling scripts is prohibited!
+- Change [Your_Token]https://github.com/adimas999/telegram-bot/blob/428cdebb22cf0912cb32997ecd4d0e87401c77b2/bot.js#L24) in bot.js to be your token
+
 ### Install (termux)
 Clone this project
 
